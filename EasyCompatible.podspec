@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name          = "EasyCompatible"
-  s.version       = "1.0"
+  s.version       = "1.1.0"
   s.summary       = "EasyCompatible"
   s.homepage      = "https://github.com/moliya/EasyCompatible"
   s.license       = "MIT"
